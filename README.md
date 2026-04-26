@@ -1,1 +1,0 @@
-# cloud-based-log-anomaly-detection
